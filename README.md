@@ -1,8 +1,10 @@
 
 ## install all dependencies
+# or
 npm install
-start server
+# or
 npm run dev
+
 # or
 yarn dev
 # or
